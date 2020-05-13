@@ -5,6 +5,9 @@
   "engines": {
     "node": ">=11.0.0"
   },
+  "resolutions": {
+    "tslib": "1.11.2"
+  },
   "author": "",
   "license": "",
   "private": true,
@@ -38,6 +41,7 @@
     "pg": "^8.1.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.5.3",
+    "tslib": "^1.10.0",
     "typeorm": "^0.2.22"
   },
   "devDependencies": {

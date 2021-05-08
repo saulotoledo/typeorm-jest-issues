@@ -42,7 +42,7 @@
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.5.3",
     "tslib": "^1.10.0",
-    "typeorm": "^0.2.22"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.1.5",
